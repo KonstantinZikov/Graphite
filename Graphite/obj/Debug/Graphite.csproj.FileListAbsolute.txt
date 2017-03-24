@@ -1,0 +1,5 @@
+D:\Kanstantsin_Zykau\VSProjects\Graphite\Graphite\bin\Debug\Graphite.dll
+D:\Kanstantsin_Zykau\VSProjects\Graphite\Graphite\bin\Debug\Graphite.pdb
+D:\Kanstantsin_Zykau\VSProjects\Graphite\Graphite\obj\Debug\Graphite.csprojResolveAssemblyReference.cache
+D:\Kanstantsin_Zykau\VSProjects\Graphite\Graphite\obj\Debug\Graphite.dll
+D:\Kanstantsin_Zykau\VSProjects\Graphite\Graphite\obj\Debug\Graphite.pdb
